@@ -5,7 +5,8 @@
 <center>
   <p align="center">
     <a href="https://github.com/HungPig" >
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lckt0&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lckt0&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF
+&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF"/>
     </a>
   <p>
 </center>
