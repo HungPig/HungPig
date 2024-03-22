@@ -18,11 +18,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&line_height=27&count_private=true&theme=dark&bg_color=0d1117&border_color=30363d&hide=issues&hide_border=true&custom_title=Stats" height="160px" alt="GitHub Stats"/>
   </a>
 </p>
-
-## &#x1f4c1; Pinned projects
-
 ## 📨 Contact me
-
 <p align="center">
   <a href="https://lckt0.github.io/?url=discord">
     <img align="center" src="/assets/discord-guild-banner.png"/>
